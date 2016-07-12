@@ -5,4 +5,5 @@ https://github.com/edamame-course/2016-tutorials/wiki
 
 EDAMAME website
 http://www.edamamecourse.org/
+Sheila made this edit
 
